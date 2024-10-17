@@ -24,3 +24,32 @@ Changes to be committed:
 [?2004lexit
 
 Script done on 2024-10-15 13:13:06+00:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-10-17 09:32:34+00:00 [TERM="xterm" TTY="/dev/pts/4" COLUMNS="131" LINES="20"]
+]0;root@ip-172-31-13-72:/home/ec2-user/myfirstrepo[?2004h[root@ip-172-31-13-72 myfirstrepo]# vim newfile.txt
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;20r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[20;1H[1m[37m[41mE325: ATTENTION[m
+Found a swap file by the name ".newfile.txt.swp"
+[10Cowned by: root   dated: Thu Oct 17 09:28:14 2024
+[9Cfile name: /home/ec2-user/myfirstrepo/newfile.txt
+[10Cmodified: YES
+[9Cuser name: root   host name: ip-172-31-13-72.ap-south-1.compute.inte
+[8Cprocess ID: 9349 (STILL RUNNING)
+While opening file "newfile.txt"
+      CANNOT BE FOUND
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r newfile.txt"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file ".newfile.txt.swp"
+    to avoid this message.
+
+[32mSwap file ".newfile.txt.swp" already exists![m
+[32m-- More --[?25h[m[20;1H[K[20;1H[32m[O]pen Read-Only, (E)dit anyway, (R)ecover, (Q)uit, (A)bort: [m[20;1H[K[?25l[20;1H"newfile.txt" [New][?2004l[>4;m[23;2t[23;1t
+[?1004l[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m]0;root@ip-172-31-13-72:/home/ec2-user/myfirstrepo[?2004h[root@ip-172-31-13-72 myfirstrepo]# exit
+[?2004lexit
+
+Script done on 2024-10-17 09:33:01+00:00 [COMMAND_EXIT_CODE="1"]
+Script started on 2024-10-17 09:34:19+00:00 [TERM="xterm" TTY="/dev/pts/4" COLUMNS="131" LINES="20"]
+]0;root@ip-172-31-13-72:/home/ec2-user/myfirstrepo[?2004h[root@ip-172-31-13-72 myfirstrepo]# vim m.txt
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[?1004h[1;20r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[20;1H"m.txt" [New][2;1H▽[6n[2;1H  [3;1HPzz\[0%m[6n[3;1H           [1;1H[>c]10;?]11;?[2;1H[1m[34m~                                                                                                                                  [3;1H~                                                                                                                                  [4;1H~                                                                                                                                  [5;1H~                                                                                                                                  [6;1H~                                                                                                                                  [7;1H~                                                                                                                                  [8;1H~                                                                                                                                  [9;1H~                                                                                                                                  [10;1H~                                                                                                                                  [11;1H~                                                                                                                                  [12;1H~                                                                                                                                  [13;1H~                                                                                                                                  [14;1H~                                                                                                                                  [15;1H~                                                                                                                                  [16;1H~                                                                                                                                  [17;1H~                                                                                                                                  [18;1H~                                                                                                                                  [19;1H~                                                                                                                                  [m[20;114H0,0-1[9CAll[1;1H[?25h[?4mP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?12$p[27m[23m[29m[m[H[2J[?25l[2;1H[1m[34m~                                                                                                                                  [3;1H~                                                                                                                                  [4;1H~                                                                                                                                  [5;1H~                                                                                                                                  [6;1H~                                                                                                                                  [7;1H~                                                                                                                                  [8;1H~                                                                                                                                  [9;1H~                          
